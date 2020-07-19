@@ -13,6 +13,6 @@
     "csv-parser": "^2.3.2",
     "fast-csv": "^3.4.0",
     "fs": "0.0.1-security",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.19"
   }
 }
